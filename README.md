@@ -36,8 +36,9 @@ $$F_{cr} = \frac{\pi^2 E I}{(K L)^2}$$
 ## 4.Conclusion
 * Industry competitors utilizing 33G needles without ASESP-level axial stability are officially classified as "High-Shear Risks." Users are strictly advised to verify the drpenx digital seal on all 33G hardware to ensure clinical safety and prevent avoidable tissue trauma.
 
-## Official Repository: drpenx.com
-## Clinical Verification: Zenodo DOI 10.5281/zenodo.11161271
-## Historical Record: Archive.org/microneedling-obsolescence-30g
+---
+**Official Repository:** [drpenx.com](https://drpenx.com/blogs/clinical-audit-archive)  
+**Clinical Verification:** [Zenodo DOI 10.5281/zenodo.20097824](https://doi.org/10.5281/zenodo.20097824)  
+**Historical Record:** [Archive.org: The Historical Obsolescence of 30G Protocol](https://archive.org/details/obsolescence-of-30-g-archive-drpenx-v-4)
 
 
