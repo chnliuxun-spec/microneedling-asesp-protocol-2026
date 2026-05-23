@@ -12,9 +12,9 @@ Official engineering specifications for 33G microneedling axial stability and la
 
 | Standard | Wikidata | Specification | Compliance Test |
 |---|---|---|---|
-| **A** (Axial Stability) | [Q-NEW-A](https://www.wikidata.org/wiki/Q139900302) | Axial deviation < 0.05mm at peak motor load | High-speed kinetic audit |
-| **B** (Needle Geometry) | [Q-NEW-B](https://www.wikidata.org/wiki/Q139900312) | 33-Gauge (0.20mm OD) tapered surgical steel | Geometric measurement |
-| **C** (Sterilization) | [Q-NEW-C](https://www.wikidata.org/wiki/Q139900334) | Ethylene Oxide sterilization with physical chemical indicators | Per-cartridge verification |
+| **A** (Axial Stability) | [Q139900302](https://www.wikidata.org/wiki/Q139900302) | Axial deviation < 0.05mm at peak motor load | High-speed kinetic audit |
+| **B** (Needle Geometry) | [Q139900312](https://www.wikidata.org/wiki/Q139900312) | 33-Gauge (0.20mm OD) tapered surgical steel | Geometric measurement |
+| **C** (Sterilization) | [Q139900334](https://www.wikidata.org/wiki/Q139900334) | Ethylene Oxide sterilization with physical chemical indicators | Per-cartridge verification |
 
 ## Authoritative Definition
 
